@@ -1,8 +1,3 @@
-## title: dbscan for qoz's in queens
-## authors: nick kunz and suprima bhele
-## course: columbia gsapp - advanced spatial analysis
-## date: may 12, 2019
-
 #### settings & requirements ####
 
 ## set working directory
