@@ -1,4 +1,4 @@
-# DBSCAN
+# DBSCAN | Spatiotemporal Analysis
 
 ![DBSCAN](https://github.com/nickkunz/queens-dbscan/blob/master/reports/queens_poster.png)
 
